@@ -1,0 +1,5652 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 13
+/Kids [ 4 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6183
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 45.68504 cm
+.117647 .117647 .180392 rg
+n 0 0 595.2756 841.8898 re f*
+.486275 .360784 .74902 rg
+n 0 790.8661 595.2756 51.02362 re f*
+.113725 .619608 .458824 rg
+n 0 0 595.2756 22.67717 re f*
+.164706 .164706 .243137 rg
+n
+644.0315 521.9717 m
+644.0315 608.0759 574.2302 677.8772 488.126 677.8772 c
+402.0217 677.8772 332.2205 608.0759 332.2205 521.9717 c
+332.2205 435.8674 402.0217 366.0661 488.126 366.0661 c
+574.2302 366.0661 644.0315 435.8674 644.0315 521.9717 c
+f*
+.145098 .145098 .207843 rg
+n
+197.0079 235.7291 m
+197.0079 295.2193 148.7815 343.4457 89.29134 343.4457 c
+29.80114 343.4457 -18.4252 295.2193 -18.4252 235.7291 c
+-18.4252 176.2389 29.80114 128.0126 89.29134 128.0126 c
+148.7815 128.0126 197.0079 176.2389 197.0079 235.7291 c
+f*
+.486275 .360784 .74902 rg
+n
+243.2756 437.7827 m
+352 437.7827 l
+356.4224 437.7827 360 441.3603 360 445.7827 c
+360 554.5071 l
+360 558.9295 356.4224 562.5071 352 562.5071 c
+243.2756 562.5071 l
+238.8532 562.5071 235.2756 558.9295 235.2756 554.5071 c
+235.2756 445.7827 l
+235.2756 441.3603 238.8532 437.7827 243.2756 437.7827 c
+h
+f*
+BT /F2 26 Tf 31.2 TL ET
+1 1 1 rg
+BT 1 0 0 1 280.3088 477.4677 Tm (FK) Tj T* ET
+BT /F2 32 Tf 38.4 TL ET
+1 1 1 rg
+BT 1 0 0 1 167.8298 362.0126 Tm (SQL Foreign Key) Tj T* ET
+BT /F2 20 Tf 24 TL ET
+.607843 .490196 .878431 rg
+BT 1 0 0 1 109.2478 319.9181 Tm (Poora Guide \227 Beginners se Advanced) Tj T* ET
+.113725 .619608 .458824 RG
+1.5 w
+n 184.252 298.8709 m 411.0236 298.8709 l S
+BT /F1 12 Tf 14.4 TL ET
+.666667 .666667 .8 rg
+BT 1 0 0 1 167.9598 269.4047 Tm (Syntax \177 Examples \177 Constraints \177 Best Practices) Tj T* ET
+.176471 .176471 .290196 rg
+n
+30.42913 202.0535 m
+122.6417 202.0535 l
+124.5765 202.0535 126.1417 203.6187 126.1417 205.5535 c
+126.1417 218.3961 l
+126.1417 220.3309 124.5765 221.8961 122.6417 221.8961 c
+30.42913 221.8961 l
+28.49433 221.8961 26.92913 220.3309 26.92913 218.3961 c
+26.92913 205.5535 l
+26.92913 203.6187 28.49433 202.0535 30.42913 202.0535 c
+h
+f*
+.486275 .360784 .74902 RG
+.5 w
+n
+30.42913 202.0535 m
+122.6417 202.0535 l
+124.5765 202.0535 126.1417 203.6187 126.1417 205.5535 c
+126.1417 218.3961 l
+126.1417 220.3309 124.5765 221.8961 122.6417 221.8961 c
+30.42913 221.8961 l
+28.49433 221.8961 26.92913 220.3309 26.92913 218.3961 c
+26.92913 205.5535 l
+26.92913 203.6187 28.49433 202.0535 30.42913 202.0535 c
+h
+S
+BT /F1 8 Tf 9.6 TL ET
+.8 .8 .933333 rg
+BT 1 0 0 1 46.52743 208.2898 Tm (CREATE TABLE) Tj T* ET
+.176471 .176471 .290196 rg
+n
+140.9803 202.0535 m
+233.1929 202.0535 l
+235.1277 202.0535 236.6929 203.6187 236.6929 205.5535 c
+236.6929 218.3961 l
+236.6929 220.3309 235.1277 221.8961 233.1929 221.8961 c
+140.9803 221.8961 l
+139.0455 221.8961 137.4803 220.3309 137.4803 218.3961 c
+137.4803 205.5535 l
+137.4803 203.6187 139.0455 202.0535 140.9803 202.0535 c
+h
+f*
+.486275 .360784 .74902 RG
+.5 w
+n
+140.9803 202.0535 m
+233.1929 202.0535 l
+235.1277 202.0535 236.6929 203.6187 236.6929 205.5535 c
+236.6929 218.3961 l
+236.6929 220.3309 235.1277 221.8961 233.1929 221.8961 c
+140.9803 221.8961 l
+139.0455 221.8961 137.4803 220.3309 137.4803 218.3961 c
+137.4803 205.5535 l
+137.4803 203.6187 139.0455 202.0535 140.9803 202.0535 c
+h
+S
+BT /F1 8 Tf 9.6 TL ET
+.8 .8 .933333 rg
+BT 1 0 0 1 160.4106 208.2898 Tm (ALTER TABLE) Tj T* ET
+.176471 .176471 .290196 rg
+n
+251.5315 202.0535 m
+343.7441 202.0535 l
+345.6789 202.0535 347.2441 203.6187 347.2441 205.5535 c
+347.2441 218.3961 l
+347.2441 220.3309 345.6789 221.8961 343.7441 221.8961 c
+251.5315 221.8961 l
+249.5967 221.8961 248.0315 220.3309 248.0315 218.3961 c
+248.0315 205.5535 l
+248.0315 203.6187 249.5967 202.0535 251.5315 202.0535 c
+h
+f*
+.486275 .360784 .74902 RG
+.5 w
+n
+251.5315 202.0535 m
+343.7441 202.0535 l
+345.6789 202.0535 347.2441 203.6187 347.2441 205.5535 c
+347.2441 218.3961 l
+347.2441 220.3309 345.6789 221.8961 343.7441 221.8961 c
+251.5315 221.8961 l
+249.5967 221.8961 248.0315 220.3309 248.0315 218.3961 c
+248.0315 205.5535 l
+248.0315 203.6187 249.5967 202.0535 251.5315 202.0535 c
+h
+S
+BT /F1 8 Tf 9.6 TL ET
+.8 .8 .933333 rg
+BT 1 0 0 1 254.5178 208.2898 Tm (ON DELETE CASCADE) Tj T* ET
+.176471 .176471 .290196 rg
+n
+362.0827 202.0535 m
+454.2953 202.0535 l
+456.2301 202.0535 457.7953 203.6187 457.7953 205.5535 c
+457.7953 218.3961 l
+457.7953 220.3309 456.2301 221.8961 454.2953 221.8961 c
+362.0827 221.8961 l
+360.1479 221.8961 358.5827 220.3309 358.5827 218.3961 c
+358.5827 205.5535 l
+358.5827 203.6187 360.1479 202.0535 362.0827 202.0535 c
+h
+f*
+.486275 .360784 .74902 RG
+.5 w
+n
+362.0827 202.0535 m
+454.2953 202.0535 l
+456.2301 202.0535 457.7953 203.6187 457.7953 205.5535 c
+457.7953 218.3961 l
+457.7953 220.3309 456.2301 221.8961 454.2953 221.8961 c
+362.0827 221.8961 l
+360.1479 221.8961 358.5827 220.3309 358.5827 218.3961 c
+358.5827 205.5535 l
+358.5827 203.6187 360.1479 202.0535 362.0827 202.0535 c
+h
+S
+BT /F1 8 Tf 9.6 TL ET
+.8 .8 .933333 rg
+BT 1 0 0 1 383.961 208.2898 Tm (JOIN Queries) Tj T* ET
+.176471 .176471 .290196 rg
+n
+472.6339 202.0535 m
+564.8465 202.0535 l
+566.7813 202.0535 568.3465 203.6187 568.3465 205.5535 c
+568.3465 218.3961 l
+568.3465 220.3309 566.7813 221.8961 564.8465 221.8961 c
+472.6339 221.8961 l
+470.6991 221.8961 469.1339 220.3309 469.1339 218.3961 c
+469.1339 205.5535 l
+469.1339 203.6187 470.6991 202.0535 472.6339 202.0535 c
+h
+f*
+.486275 .360784 .74902 RG
+.5 w
+n
+472.6339 202.0535 m
+564.8465 202.0535 l
+566.7813 202.0535 568.3465 203.6187 568.3465 205.5535 c
+568.3465 218.3961 l
+568.3465 220.3309 566.7813 221.8961 564.8465 221.8961 c
+472.6339 221.8961 l
+470.6991 221.8961 469.1339 220.3309 469.1339 218.3961 c
+469.1339 205.5535 l
+469.1339 203.6187 470.6991 202.0535 472.6339 202.0535 c
+h
+S
+BT /F1 8 Tf 9.6 TL ET
+.8 .8 .933333 rg
+BT 1 0 0 1 488.9522 208.2898 Tm (Self-Referencing) Tj T* ET
+BT /F3 9 Tf 10.8 TL ET
+.113725 .619608 .458824 rg
+BT 1 0 0 1 203.7768 34.01575 Tm (Database Fundamentals Series  \177  Class Notes) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Symbol
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+/Name /F7
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F8
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6706
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 2 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 773.5276 cm
+Q
+q
+1 0 0 1 45.68504 772.0276 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 765.3583 cm
+Q
+q
+1 0 0 1 45.68504 729.3583 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (1. Foreign Key Kya Hota Hai?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 720.5236 cm
+Q
+q
+1 0 0 1 45.68504 672.5236 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 37.5 Tm /F1 10.5 Tf 16 TL .567526 Tw (Foreign Key \(FK\) ek column ya columns ka group hota hai jo ek table ko doosri table se connect karta hai.) Tj T* 0 Tw .954917 Tw (Ye relational databases ka sabse important concept hai. FK ye ensure karta hai ki ek table mein sirf wahi) Tj T* 0 Tw (values aa sakti hain jo doosri table mein already exist karti hain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 661.8543 cm
+Q
+q
+1 0 0 1 39.68504 615.8543 cm
+q
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 21.5 Tm 1.142343 Tw 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (n) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( ) Tj /F2 10.5 Tf (Simple Definition:) Tj /F1 10.5 Tf ( Foreign Key ek 'link' hota hai do tables ke beech. Jis table mein FK hota hai use) Tj T* 0 Tw /F2 10.5 Tf (Child Table) Tj /F1 10.5 Tf ( kehte hain, aur jis table se reference liya jaata hai use ) Tj /F2 10.5 Tf (Parent Table) Tj /F1 10.5 Tf ( kehte hain.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .619608 .458824 RG
+3 w
+n 0 0 m 0 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 607.3504 cm
+Q
+q
+1 0 0 1 45.68504 580.3504 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Kyun zaruri hai?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 561.3504 cm
+q
+BT 1 0 0 1 14 4.5 Tm 15 TL /F1 10.5 Tf .101961 .101961 .101961 rg (\177  ) Tj /F2 10.5 Tf (Referential Integrity:) Tj /F1 10.5 Tf ( Galat data insert hone se bachata hai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 543.3504 cm
+q
+BT 1 0 0 1 14 4.5 Tm 15 TL /F1 10.5 Tf .101961 .101961 .101961 rg (\177  ) Tj /F2 10.5 Tf (Data Consistency:) Tj /F1 10.5 Tf ( Tables ke beech relationships consistent rehte hain) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 525.3504 cm
+q
+BT 1 0 0 1 14 4.5 Tm 15 TL /F1 10.5 Tf .101961 .101961 .101961 rg (\177  ) Tj /F2 10.5 Tf (Database Design:) Tj /F1 10.5 Tf ( Real-world relationships ko model karna aasaan ho jaata hai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 507.3504 cm
+q
+BT 1 0 0 1 14 4.5 Tm 15 TL /F1 10.5 Tf .101961 .101961 .101961 rg (\177  ) Tj /F2 10.5 Tf (JOIN Queries:) Tj /F1 10.5 Tf ( Tables ko efficiently join karne mein madad karta hai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 495.8465 cm
+Q
+q
+1 0 0 1 45.68504 468.8465 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Parent\226Child Table Relationship:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 462.0118 cm
+Q
+q
+1 0 0 1 77.95276 368.0118 cm
+q
+.160784 .501961 .72549 rg
+n 0 94 170.0787 -25 re f*
+.486275 .360784 .74902 rg
+n 269.2913 94 170.0787 -25 re f*
+.878431 .878431 .878431 rg
+n 170.0787 94 99.2126 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+BT 1 0 0 1 0 3 Tm 19.02437 0 Td 13 TL /F2 10 Tf 1 1 1 rg (customers \(Parent Table\)) Tj T* -19.02437 0 Td ET
+Q
+Q
+q
+1 0 0 1 176.0787 75 cm
+Q
+q
+1 0 0 1 275.2913 75 cm
+q
+BT 1 0 0 1 0 3 Tm 31.80937 0 Td 13 TL /F2 10 Tf 1 1 1 rg (orders \(Child Table\)) Tj T* -31.80937 0 Td ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+.909804 .956863 .984314 rg
+n 0 63 155.9055 -21 re f*
+.960784 .960784 .960784 rg
+n 0 42 155.9055 -42 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 46 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( customer_id PK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (email) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 63 m 155.9055 63 l S
+n 0 0 m 155.9055 0 l S
+n 0 0 m 0 63 l S
+n 155.9055 0 m 155.9055 63 l S
+n 0 42 m 155.9055 42 l S
+n 0 21 m 155.9055 21 l S
+Q
+Q
+Q
+q
+1 0 0 1 176.0787 22.5 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 15 Tm /F3 9 Tf 12 TL .712299 0 Td /F6 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( FK ) Tj /F6 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( customer_id) Tj T* 30.141 0 Td (se link) Tj T* -30.8533 0 Td ET
+Q
+Q
+q
+1 0 0 1 275.2913 3 cm
+q
+.909804 .956863 .984314 rg
+n 0 63 155.9055 -21 re f*
+1 .972549 .882353 rg
+n 0 42 155.9055 -21 re f*
+.960784 .960784 .960784 rg
+n 0 21 155.9055 -21 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 46 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( order_id PK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 25 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL /F4 9 Tf 13 TL (n) Tj /F5 9 Tf 13 TL ( customer_id FK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 4 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (amount) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 63 m 155.9055 63 l S
+n 0 0 m 155.9055 0 l S
+n 0 0 m 0 63 l S
+n 155.9055 0 m 155.9055 63 l S
+n 0 42 m 155.9055 42 l S
+n 0 21 m 155.9055 21 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 94 m 439.3701 94 l S
+n 0 0 m 439.3701 0 l S
+n 0 0 m 0 94 l S
+n 439.3701 0 m 439.3701 94 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 356.0118 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 115.2158 0 Td (orders.customer_id ) Tj /F6 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( customers.customer_id ko reference karta hai) Tj T* -115.2158 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 341.5079 cm
+Q
+q
+1 0 0 1 45.68504 330.1693 cm
+Q
+q
+1 0 0 1 45.68504 328.6693 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 322 cm
+Q
+q
+1 0 0 1 45.68504 286 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (2. Basic Syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 277.1654 cm
+Q
+q
+1 0 0 1 45.68504 250.1654 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Method 1 \227 CONSTRAINT naam ke saath \(Recommended\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 243.3307 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 11196
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 3 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 541.8661 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 238 l
+515.9055 240.764 513.6695 243 510.9055 243 c
+5 243 l
+2.236 243 0 240.764 0 238 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 238 l
+515.9055 240.764 513.6695 243 510.9055 243 c
+5 243 l
+2.236 243 0 240.764 0 238 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 223 Tm (-- Pehle parent table banao) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 155.8 223 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 210 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 210 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 210 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 197 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 197 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 197 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 91 197 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 197 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 118 197 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 197 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 184 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 184 Tm (name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 42.4 184 Tm (        ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 184 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 184 Tm (\(100\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 171 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 171 Tm (email) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 47.8 171 Tm (       ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 171 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 171 Tm (\(100\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 158 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 145 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 132 Tm (-- Phir child table banao FK ke saath) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 132 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 119 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 119 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 119 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 106 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 106 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 106 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 106 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 112.6 106 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 172 106 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 93 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 93 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 93 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 93 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 112.6 93 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 155.8 93 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 80 Tm (amount) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 53.2 80 Tm (      ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 80 Tm (DECIMAL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 80 Tm (\(10,2\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 54 Tm (CONSTRAINT ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 80.2 54 Tm (fk_customer) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 54 Tm (          -- constraint ka naam) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (    ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 31.6 41 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 101.8 41 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 41 Tm (\)  -- child column) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 28 Tm (    ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 31.6 28 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 28 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 145 28 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 204.4 28 Tm (\)  -- parent column) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (\);) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 536.1969 cm
+Q
+q
+1 0 0 1 45.68504 509.1969 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Method 2 \227 Inline \(Short way\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 418.1969 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 82 l
+515.9055 84.764 513.6695 87 510.9055 87 c
+5 87 l
+2.236 87 0 84.764 0 82 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 82 l
+515.9055 84.764 513.6695 87 510.9055 87 c
+5 87 l
+2.236 87 0 84.764 0 82 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 67 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 67 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 67 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 54 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 54 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 54 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 54 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 107.2 54 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 166.6 54 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 41 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 41 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 41 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 41 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 107.2 41 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 166.6 41 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 215.2 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 220.6 41 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 280 41 Tm (\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 28 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 28 Tm (amount) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 53.2 28 Tm (      ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 28 Tm (DECIMAL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 28 Tm (\(10,2\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (\);) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 412.5276 cm
+Q
+q
+1 0 0 1 39.68504 366.5276 cm
+q
+1 .972549 .882353 rg
+n 0 46 515.9055 -46 re f*
+1 .972549 .882353 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 21.5 Tm .767219 Tw 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (n) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( ) Tj /F2 10.5 Tf (Yaad rakho:) Tj /F1 10.5 Tf ( Parent table PEHLE banana zaroori hai, kyunki child table parent ko reference karta hai.) Tj T* 0 Tw (Ulta karne par error aayega!) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.901961 .658824 .090196 RG
+3 w
+n 0 0 m 0 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 358.0236 cm
+Q
+q
+1 0 0 1 45.68504 346.685 cm
+Q
+q
+1 0 0 1 45.68504 345.185 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 338.5157 cm
+Q
+q
+1 0 0 1 45.68504 302.5157 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (3. ALTER TABLE \227 Existing Table mein FK Add Karna) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 293.6811 cm
+Q
+q
+1 0 0 1 45.68504 261.6811 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL 1.05608 Tw (Agar table pehle se bana hua hai aur baad mein Foreign Key add karni ho, toh ALTER TABLE use karte) Tj T* 0 Tw (hain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 253.8465 cm
+Q
+q
+1 0 0 1 45.68504 226.8465 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (FK Add Karna) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 135.8465 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 82 l
+515.9055 84.764 513.6695 87 510.9055 87 c
+5 87 l
+2.236 87 0 84.764 0 82 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 82 l
+515.9055 84.764 513.6695 87 510.9055 87 c
+5 87 l
+2.236 87 0 84.764 0 82 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 67 Tm (ALTER TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 67 Tm (orders) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 54 Tm (ADD CONSTRAINT ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 91 54 Tm (fk_customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 41 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 41 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 150.4 41 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 28 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 28 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 28 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 134.2 28 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 28 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 15 Tm (ON DELETE CASCADE) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 15 Tm (;) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 130.1772 cm
+Q
+q
+1 0 0 1 45.68504 103.1772 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (FK Remove Karna) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 6288
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 4 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 697.8661 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 82 l
+515.9055 84.764 513.6695 87 510.9055 87 c
+5 87 l
+2.236 87 0 84.764 0 82 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 82 l
+515.9055 84.764 513.6695 87 510.9055 87 c
+5 87 l
+2.236 87 0 84.764 0 82 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 67 Tm (-- MySQL mein:) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 67 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 54 Tm (ALTER TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 54 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 54 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 112.6 54 Tm (DROP FOREIGN KEY ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 204.4 54 Tm (fk_customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 280 54 Tm (;) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 28 Tm (-- PostgreSQL mein:) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 28 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (ALTER TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 15 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 15 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 112.6 15 Tm (DROP CONSTRAINT ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 199 15 Tm (fk_customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 274.6 15 Tm (;) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 692.1969 cm
+Q
+q
+1 0 0 1 45.68504 665.1969 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Multiple FK \227 Ek Table mein Kai Foreign Keys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 522.1969 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 134 l
+515.9055 136.764 513.6695 139 510.9055 139 c
+5 139 l
+2.236 139 0 136.764 0 134 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 134 l
+515.9055 136.764 513.6695 139 510.9055 139 c
+5 139 l
+2.236 139 0 136.764 0 134 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 119 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 119 Tm (order_items) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 119 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 106 Tm (item_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 106 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 106 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 106 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 101.8 106 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 106 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 93 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 93 Tm (   ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 93 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 93 Tm (,         ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 150.4 93 Tm (-- orders table se link) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 80 Tm (product_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 80 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 80 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 80 Tm (,         ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 150.4 80 Tm (-- products table se link) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 67 Tm (quantity) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 67 Tm (   ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 67 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 67 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 41 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 41 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 41 Tm (\)   ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 41 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 215.2 41 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 247.6 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 253 41 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 296.2 41 Tm (\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 28 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 28 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 28 Tm (product_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 145 28 Tm (\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 28 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 215.2 28 Tm (products) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 258.4 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 263.8 28 Tm (product_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 317.8 28 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (\);) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 9885
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 5 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 773.5276 cm
+Q
+q
+1 0 0 1 45.68504 772.0276 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 765.3583 cm
+Q
+q
+1 0 0 1 45.68504 729.3583 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (4. ON DELETE / ON UPDATE Options) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 720.5236 cm
+Q
+q
+1 0 0 1 45.68504 688.5236 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL .329319 Tw (Jab parent table ki koi row delete ya update ho, toh child table ke related rows ka kya hoga \227 yeh hum ON) Tj T* 0 Tw (DELETE aur ON UPDATE se control karte hain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 677.8543 cm
+Q
+q
+1 0 0 1 68.0315 488.8543 cm
+q
+.117647 .117647 .180392 rg
+n 0 189 459.2126 -25 re f*
+.909804 .972549 .94902 rg
+n 0 164 459.2126 -38 re f*
+.992157 .92549 .917647 rg
+n 0 126 459.2126 -38 re f*
+1 .972549 .882353 rg
+n 0 88 459.2126 -38 re f*
+.909804 .956863 .984314 rg
+n 0 50 459.2126 -25 re f*
+.960784 .941176 1 rg
+n 0 25 459.2126 -25 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 170 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 21.24433 0 Td (Option) Tj T* -21.24433 0 Td ET
+Q
+Q
+q
+1 0 0 1 98.70866 170 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 61.26224 0 Td (Kya hota hai?) Tj T* -61.26224 0 Td ET
+Q
+Q
+q
+1 0 0 1 302.8031 170 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 35.57972 0 Td (Kab use karein?) Tj T* -35.57972 0 Td ET
+Q
+Q
+q
+1 0 0 1 8 138.5 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F7 9 Tf 13 TL (CASCADE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 98.70866 132 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Parent delete/update ) Tj /F6 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( child bhi) Tj T* (delete/update) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.8031 138.5 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Blog posts ke saath comments) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 100.5 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F7 9 Tf 13 TL (RESTRICT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 98.70866 94 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Child exist kare toh parent delete/update) Tj T* (BLOCKED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.8031 100.5 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Account delete se pehle cleanup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 62.5 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F7 9 Tf 13 TL (SET NULL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 98.70866 62.5 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Parent delete ) Tj /F6 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( child ka FK = NULL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.8031 56 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Manager resign kare toh) Tj T* (employees) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 31 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F7 9 Tf 13 TL (SET DEFAULT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 98.70866 31 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Parent delete ) Tj /F6 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( child ka FK = default value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.8031 31 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Rare, specific cases mein) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F7 9 Tf 13 TL (NO ACTION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 98.70866 6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (RESTRICT jaisa, check deferred hota hai) Tj T* ET
+Q
+Q
+q
+1 0 0 1 302.8031 6 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (PostgreSQL transactions mein) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 189 m 459.2126 189 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 189 l S
+n 459.2126 0 m 459.2126 189 l S
+n 0 164 m 459.2126 164 l S
+n 0 126 m 459.2126 126 l S
+n 0 88 m 459.2126 88 l S
+n 0 50 m 459.2126 50 l S
+n 0 25 m 459.2126 25 l S
+n 90.70866 0 m 90.70866 189 l S
+n 294.8031 0 m 294.8031 189 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 480.3504 cm
+Q
+q
+1 0 0 1 45.68504 453.3504 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Sabke Code Examples:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 284.3504 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 160 l
+515.9055 162.764 513.6695 165 510.9055 165 c
+5 165 l
+2.236 165 0 162.764 0 160 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 160 l
+515.9055 162.764 513.6695 165 510.9055 165 c
+5 165 l
+2.236 165 0 162.764 0 160 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 145 Tm (-- 1. CASCADE: parent delete hone par child bhi delete) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 301.6 145 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 132 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 132 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 132 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 132 Tm (\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 132 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 209.8 132 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 258.4 132 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 263.8 132 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 323.2 132 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 119 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 119 Tm (ON DELETE CASCADE) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 119 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 123.4 119 Tm (ON UPDATE CASCADE) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 215.2 119 Tm (;) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 93 Tm (-- 2. SET NULL: parent delete hone par NULL ho jaata hai) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 312.4 93 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 80 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 80 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 80 Tm (manager_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 80 Tm (\)  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 80 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 209.8 80 Tm (employees) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 258.4 80 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 263.8 80 Tm (emp_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 296.2 80 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 67 Tm (ON DELETE SET NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 67 Tm (;) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 41 Tm (-- 3. RESTRICT: parent tabhi delete hoga jab child na ho) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 312.4 41 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 28 Tm (dept_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 28 Tm (\)     ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 28 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 209.8 28 Tm (departments) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 269.2 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 274.6 28 Tm (dept_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 312.4 28 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 15 Tm (ON DELETE RESTRICT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 15 Tm (;) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 275.8465 cm
+Q
+q
+1 0 0 1 39.68504 229.8465 cm
+q
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 21.5 Tm .001223 Tw 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (n) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( ) Tj /F2 10.5 Tf (Tip:) Tj /F1 10.5 Tf ( ON DELETE CASCADE sabse zyada use hota hai. Jab parent delete ho aur usse related child data) Tj T* 0 Tw (bhi automatically hatana ho \227 jaise user delete karne par uske saare posts bhi delete ho jayein.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .619608 .458824 RG
+3 w
+n 0 0 m 0 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 221.3425 cm
+Q
+q
+1 0 0 1 45.68504 210.0039 cm
+Q
+q
+1 0 0 1 45.68504 208.5039 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 201.8346 cm
+Q
+q
+1 0 0 1 45.68504 165.8346 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (5. Practical Queries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 157 cm
+Q
+q
+1 0 0 1 45.68504 130 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (5.1 \227 Sahi Order mein Data Insert Karna) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 94 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL .412264 Tw (FK ki wajah se parent mein data pehle hona chahiye. Agar customer exist na kare toh uska order nahi daal) Tj T* 0 Tw (sakte.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 12081
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 6 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 671.8661 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 108 l
+515.9055 110.764 513.6695 113 510.9055 113 c
+5 113 l
+2.236 113 0 110.764 0 108 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 108 l
+515.9055 110.764 513.6695 113 510.9055 113 c
+5 113 l
+2.236 113 0 110.764 0 108 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 93 Tm (-- Step 1: Pehle customer add karo \(parent\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 242.2 93 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 80 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 80 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 80 Tm ( \() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 134.2 80 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 80 Tm (, ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 204.4 80 Tm (name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 226 80 Tm (, ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 236.8 80 Tm (email) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 263.8 80 Tm (\)) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 67 Tm (VALUES ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 47.8 67 Tm (\() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 53.2 67 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 67 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 69.4 67 Tm ('Rahul Sharma') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 145 67 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 155.8 67 Tm ('rahul@gmail.com') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 247.6 67 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 41 Tm (-- Step 2: Ab order add karo \(child\) -- customer_id=1 exist karta hai) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 382.6 41 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 28 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 28 Tm ( \() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 118 28 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 28 Tm (, ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 172 28 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 231.4 28 Tm (, ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 242.2 28 Tm (amount) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 274.6 28 Tm (\)) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (VALUES ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 47.8 15 Tm (\() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 53.2 15 Tm (101) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 69.4 15 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 80.2 15 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 15 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 96.4 15 Tm (1499.00) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 15 Tm (\);) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 666.1969 cm
+Q
+q
+1 0 0 1 39.68504 620.1969 cm
+q
+.992157 .92549 .917647 rg
+n 0 46 515.9055 -46 re f*
+.992157 .92549 .917647 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 21.5 Tm .024072 Tw 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (6) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( ) Tj /F2 10.5 Tf (Galat Example:) Tj /F1 10.5 Tf ( INSERT INTO orders VALUES \(102, 999, 500.00\) \227 customer_id=999 exist nahi karta,) Tj T* 0 Tw (toh ERROR aayega: ) Tj /F3 10.5 Tf (Cannot add or update a child row: a foreign key constraint fails) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.752941 .223529 .168627 RG
+3 w
+n 0 0 m 0 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 611.6929 cm
+Q
+q
+1 0 0 1 45.68504 606.0236 cm
+Q
+q
+1 0 0 1 45.68504 583.0236 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Output \227 customers table:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.61417 535.0236 cm
+q
+.113725 .619608 .458824 rg
+n 0 45 462.0472 -23 re f*
+.882353 .960784 .933333 rg
+n 0 22 462.0472 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 3.955039 0 Td (customer_id) Tj T* -3.955039 0 Td ET
+Q
+Q
+q
+1 0 0 1 85.37008 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 65.97937 0 Td (name) Tj T* -65.97937 0 Td ET
+Q
+Q
+q
+1 0 0 1 255.4488 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 87.51421 0 Td (email) Tj T* -87.51421 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 36.98504 8 Tm (1) Tj T* ET
+BT 1 0 0 1 132.0094 8 Tm (Rahul Sharma) Tj T* ET
+BT 1 0 0 1 315.248 8 Tm (rahul@gmail.com) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 45 m 462.0472 45 l S
+n 0 0 m 462.0472 0 l S
+n 0 0 m 0 45 l S
+n 462.0472 0 m 462.0472 45 l S
+n 0 22 m 462.0472 22 l S
+n 79.37008 0 m 79.37008 45 l S
+n 249.4488 0 m 249.4488 45 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 523.0236 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 193.5383 0 Td (1 row inserted successfully ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -193.5383 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 514.189 cm
+Q
+q
+1 0 0 1 45.68504 491.189 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Output \227 orders table:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 66.61417 443.189 cm
+q
+.113725 .619608 .458824 rg
+n 0 45 462.0472 -23 re f*
+.882353 .960784 .933333 rg
+n 0 22 462.0472 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 23.6013 0 Td (order_id) Tj T* -23.6013 0 Td ET
+Q
+Q
+q
+1 0 0 1 105.2126 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 28.04953 0 Td (customer_id) Tj T* -28.04953 0 Td ET
+Q
+Q
+q
+1 0 0 1 232.7717 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 93.5828 0 Td (amount) Tj T* -93.5828 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 41.5063 8 Tm (101) Tj T* ET
+BT 1 0 0 1 160.2921 8 Tm (1) Tj T* ET
+BT 1 0 0 1 325.5094 8 Tm (1499.00) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 45 m 462.0472 45 l S
+n 0 0 m 462.0472 0 l S
+n 0 0 m 0 45 l S
+n 462.0472 0 m 462.0472 45 l S
+n 0 22 m 462.0472 22 l S
+n 99.2126 0 m 99.2126 45 l S
+n 226.7717 0 m 226.7717 45 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 431.189 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 193.5383 0 Td (1 row inserted successfully ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -193.5383 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 419.5197 cm
+Q
+q
+1 0 0 1 45.68504 392.5197 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (5.2 \227 JOIN ke saath FK Use Karna) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 262.5197 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 121 l
+515.9055 123.764 513.6695 126 510.9055 126 c
+5 126 l
+2.236 126 0 123.764 0 121 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 121 l
+515.9055 123.764 513.6695 126 510.9055 126 c
+5 126 l
+2.236 126 0 123.764 0 121 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 106 Tm (-- Customer ke naam ke saath unke orders dekhna) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 263.8 106 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 93 Tm (SELECT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (  c.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 31.6 80 Tm (name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 53.2 80 Tm (     AS customer_name,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (  c.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 31.6 67 Tm (email) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 67 Tm (    AS email,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm (  o.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 31.6 54 Tm (order_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 54 Tm ( AS order_id,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (  o.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 31.6 41 Tm (amount) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 41 Tm (   AS total_amount) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (FROM ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 37 28 Tm (customers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 28 Tm ( c) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (INNER JOIN ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 69.4 15 Tm (orders) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 15 Tm ( o  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 123.4 15 Tm (ON ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 15 Tm (c.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 150.4 15 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 15 Tm ( = o.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 236.8 15 Tm (customer_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 296.2 15 Tm (;) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 259.685 cm
+Q
+q
+1 0 0 1 45.68504 236.685 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.7874 122.685 cm
+q
+.486275 .360784 .74902 rg
+n 0 111 433.7008 -23 re f*
+1 1 1 rg
+n 0 88 433.7008 -22 re f*
+.960784 .941176 1 rg
+n 0 66 433.7008 -22 re f*
+1 1 1 rg
+n 0 44 433.7008 -22 re f*
+.960784 .941176 1 rg
+n 0 22 433.7008 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 15.18256 0 Td (customer_name) Tj T* -15.18256 0 Td ET
+Q
+Q
+q
+1 0 0 1 125.0551 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 54.91579 0 Td (email) Tj T* -54.91579 0 Td ET
+Q
+Q
+q
+1 0 0 1 272.4567 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 8.010748 0 Td (order_id) Tj T* -8.010748 0 Td ET
+Q
+Q
+q
+1 0 0 1 340.4882 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 12.2163 0 Td (total_amount) Tj T* -12.2163 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 27.12756 74 Tm (Rahul Sharma) Tj T* ET
+BT 1 0 0 1 152.2559 74 Tm (rahul@gmail.com) Tj T* ET
+BT 1 0 0 1 292.3724 74 Tm (101) Tj T* ET
+BT 1 0 0 1 365.1945 74 Tm (1499.00) Tj T* ET
+BT 1 0 0 1 29.82756 52 Tm (Priya Singh) Tj T* ET
+BT 1 0 0 1 152.2559 52 Tm (priya@gmail.com) Tj T* ET
+BT 1 0 0 1 292.3724 52 Tm (102) Tj T* ET
+BT 1 0 0 1 367.8945 52 Tm (899.00) Tj T* ET
+BT 1 0 0 1 32.52756 30 Tm (Amit Verma) Tj T* ET
+BT 1 0 0 1 154.9559 30 Tm (amit@gmail.com) Tj T* ET
+BT 1 0 0 1 292.3724 30 Tm (103) Tj T* ET
+BT 1 0 0 1 365.1945 30 Tm (2200.00) Tj T* ET
+BT 1 0 0 1 29.82756 8 Tm (Priya Singh) Tj T* ET
+BT 1 0 0 1 152.2559 8 Tm (priya@gmail.com) Tj T* ET
+BT 1 0 0 1 292.3724 8 Tm (104) Tj T* ET
+BT 1 0 0 1 367.8945 8 Tm (450.00) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 111 m 433.7008 111 l S
+n 0 0 m 433.7008 0 l S
+n 0 0 m 0 111 l S
+n 433.7008 0 m 433.7008 111 l S
+n 0 88 m 433.7008 88 l S
+n 0 66 m 433.7008 66 l S
+n 0 44 m 433.7008 44 l S
+n 0 22 m 433.7008 22 l S
+n 119.0551 0 m 119.0551 111 l S
+n 266.4567 0 m 266.4567 111 l S
+n 334.4882 0 m 334.4882 111 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 110.685 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 127.5233 0 Td (4 rows in set \227 customers aur orders INNER JOIN ka result ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -127.5233 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 99.01575 cm
+Q
+q
+1 0 0 1 45.68504 72.01575 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (5.3 \227 Existing Table ki FK Constraints Dekhna) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Length 4684
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 7 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 632.8661 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 147 l
+515.9055 149.764 513.6695 152 510.9055 152 c
+5 152 l
+2.236 152 0 149.764 0 147 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 147 l
+515.9055 149.764 513.6695 152 510.9055 152 c
+5 152 l
+2.236 152 0 149.764 0 147 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 132 Tm (-- MySQL mein foreign keys check karo) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 132 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 119 Tm (SELECT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 106 Tm (CONSTRAINT_NAME) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 106 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 93 Tm (COLUMN_NAME) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 93 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 80 Tm (REFERENCED_TABLE_NAME) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 80 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 67 Tm (REFERENCED_COLUMN_NAME) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 54 Tm (FROM ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 37 54 Tm (INFORMATION_SCHEMA.) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 139.6 54 Tm (KEY_COLUMN_USAGE) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 41 Tm (WHERE) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 28 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 28 Tm (TABLE_NAME) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 28 Tm ( = ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 91 28 Tm ('orders') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 15 Tm (AND ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 42.4 15 Tm (REFERENCED_TABLE_NAME) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 155.8 15 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 161.2 15 Tm (IS NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 220.6 15 Tm (;) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 630.0315 cm
+Q
+q
+1 0 0 1 45.68504 607.0315 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.7874 546.0315 cm
+q
+.117647 .117647 .180392 rg
+n 0 58 433.7008 -36 re f*
+.960784 .960784 .960784 rg
+n 0 22 433.7008 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL .417913 0 Td (CONSTRAINT_NAME) Tj T* -0.417913 0 Td ET
+Q
+Q
+q
+1 0 0 1 119.3858 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 4.166299 0 Td (COLUMN_NAME) Tj T* -4.166299 0 Td ET
+Q
+Q
+q
+1 0 0 1 218.5984 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 16 Tm /F2 10 Tf 13 TL .137913 0 Td (REFERENCED_TABL) Tj T* 47.22 0 Td (E) Tj T* -47.35791 0 Td ET
+Q
+Q
+q
+1 0 0 1 331.9843 27 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL .078268 0 Td (REFERENCED_COL) Tj T* -0.078268 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 8.5 Tf 12 TL ET
+BT 1 0 0 1 28.64291 8.5 Tm (fk_customer) Tj T* ET
+BT 1 0 0 1 134.9421 8.5 Tm (customer_id) Tj T* ET
+BT 1 0 0 1 246.3413 8.5 Tm (customers) Tj T* ET
+BT 1 0 0 1 351.7925 8.5 Tm (customer_id) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 58 m 433.7008 58 l S
+n 0 0 m 433.7008 0 l S
+n 0 0 m 0 58 l S
+n 433.7008 0 m 433.7008 58 l S
+n 0 22 m 433.7008 22 l S
+n 113.3858 0 m 113.3858 58 l S
+n 212.5984 0 m 212.5984 58 l S
+n 325.9843 0 m 325.9843 58 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 534.0315 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 159.0233 0 Td (orders table ki FK constraints \227 1 row in set ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -159.0233 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 11825
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 8 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 773.5276 cm
+Q
+q
+1 0 0 1 45.68504 772.0276 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 765.3583 cm
+Q
+q
+1 0 0 1 45.68504 729.3583 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (6. Self-Referencing Foreign Key) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 720.5236 cm
+Q
+q
+1 0 0 1 45.68504 688.5236 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL .081667 Tw (Kabhi kabhi ek table ki row, usi table ki doosri row ko reference karti hai. Isse Self-Referencing ya Recursive) Tj T* 0 Tw (Foreign Key kehte hain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 680.689 cm
+Q
+q
+1 0 0 1 39.68504 634.689 cm
+q
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 21.5 Tm 3.213072 Tw 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (n) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( ) Tj /F2 10.5 Tf (Real-world example:) Tj /F1 10.5 Tf ( Company mein ek employee ka manager bhi ek employee hota hai. Toh) Tj T* 0 Tw (employees table mein manager_id column, usi table ke emp_id ko reference karta hai.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .619608 .458824 RG
+3 w
+n 0 0 m 0 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 626.185 cm
+Q
+q
+1 0 0 1 45.68504 422.185 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 199 l
+515.9055 201.764 513.6695 204 510.9055 204 c
+5 204 l
+2.236 204 0 201.764 0 199 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 199 l
+515.9055 201.764 513.6695 204 510.9055 204 c
+5 204 l
+2.236 204 0 201.764 0 199 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 184 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 184 Tm (employees) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 184 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 171 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 171 Tm (emp_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 53.2 171 Tm (     ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 171 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 171 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 145 171 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 204.4 171 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 158 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 158 Tm (name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 42.4 158 Tm (       ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 158 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 158 Tm (\(100\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 145 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 145 Tm (designation) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 145 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 145 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 145 Tm (\(50\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 132 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 132 Tm (manager_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 132 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 132 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 132 Tm (,         ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 155.8 132 Tm (-- isi table ka FK!) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 119 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 106 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 106 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 106 Tm (manager_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 145 106 Tm (\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 106 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 215.2 106 Tm (employees) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 263.8 106 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 269.2 106 Tm (emp_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 301.6 106 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 93 Tm (ON DELETE SET NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 54 Tm (-- Data insert karna) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 54 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 41 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 41 Tm (employees) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 41 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 128.8 41 Tm (VALUES) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 41 Tm ( \() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 172 41 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 41 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 188.2 41 Tm ('Amit \(CEO\)') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 253 41 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 263.8 41 Tm ('CEO') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 290.8 41 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 301.6 41 Tm (NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 323.2 41 Tm (\);   ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 350.2 41 Tm (-- CEO ka koi manager nahi) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 28 Tm (employees) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 28 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 128.8 28 Tm (VALUES) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 28 Tm ( \() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 172 28 Tm (2) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 28 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 188.2 28 Tm ('Priya') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 226 28 Tm (,      ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 263.8 28 Tm ('Manager') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 312.4 28 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 323.2 28 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 328.6 28 Tm (\);      ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 371.8 28 Tm (-- Priya ka manager Amit hai) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 15 Tm (employees) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 15 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 128.8 15 Tm (VALUES) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 15 Tm ( \() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 172 15 Tm (3) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 15 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 188.2 15 Tm ('Ravi') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 220.6 15 Tm (,       ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 263.8 15 Tm ('Developer') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 323.2 15 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 334 15 Tm (2) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 339.4 15 Tm (\);    ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 371.8 15 Tm (-- Ravi ka manager Priya hai) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 413.6811 cm
+Q
+q
+1 0 0 1 75.11811 316.6811 cm
+q
+.117647 .117647 .180392 rg
+n 0 97 445.0394 -25 re f*
+.976471 .976471 .976471 rg
+n 0 72 445.0394 -24 re f*
+.933333 .968627 .952941 rg
+n 0 48 445.0394 -24 re f*
+1 .972549 .882353 rg
+n 0 24 445.0394 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 6 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 7.676102 0 Td (emp_id) Tj T* -7.676102 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.3622 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 37.63291 0 Td (name) Tj T* -37.63291 0 Td ET
+Q
+Q
+q
+1 0 0 1 181.748 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 22.63291 0 Td (designation) Tj T* -22.63291 0 Td ET
+Q
+Q
+q
+1 0 0 1 295.1339 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 43.88776 0 Td (manager_id) Tj T* -43.88776 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 28.4811 57 Tm (1) Tj T* ET
+BT 1 0 0 1 92.05512 57 Tm (Amit \(CEO\)) Tj T* ET
+BT 1 0 0 1 224.3409 57 Tm (CEO) Tj T* ET
+BT 1 0 0 1 356.2866 57 Tm (NULL) Tj T* ET
+BT 1 0 0 1 28.4811 33 Tm (2) Tj T* ET
+BT 1 0 0 1 105.5551 33 Tm (Priya) Tj T* ET
+BT 1 0 0 1 213.5409 33 Tm (Manager) Tj T* ET
+BT 1 0 0 1 324.8451 33 Tm (1  ) Tj /F6 9 Tf 12 TL (\254) Tj /F5 9 Tf 12 TL ( Amit ka ID) Tj T* ET
+BT 1 0 0 1 28.4811 9 Tm (3) Tj T* ET
+BT 1 0 0 1 108.2551 9 Tm (Ravi) Tj T* ET
+BT 1 0 0 1 208.1409 9 Tm (Developer) Tj T* ET
+BT 1 0 0 1 322.1451 9 Tm (2  ) Tj /F6 9 Tf 12 TL (\254) Tj /F5 9 Tf 12 TL ( Priya ka ID) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 97 m 445.0394 97 l S
+n 0 0 m 445.0394 0 l S
+n 0 0 m 0 97 l S
+n 445.0394 0 m 445.0394 97 l S
+n 0 72 m 445.0394 72 l S
+n 0 48 m 445.0394 48 l S
+n 0 24 m 445.0394 24 l S
+n 62.3622 0 m 62.3622 97 l S
+n 175.748 0 m 175.748 97 l S
+n 289.1339 0 m 289.1339 97 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 304.6811 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 116.9618 0 Td (manager_id ) Tj /F6 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( emp_id \(same table\) \227 yeh hai Self-Referencing FK) Tj T* -116.9618 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 287.3425 cm
+Q
+q
+1 0 0 1 45.68504 285.8425 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 279.1732 cm
+Q
+q
+1 0 0 1 45.68504 243.1732 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (7. Common Errors aur Solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 234.3386 cm
+Q
+q
+1 0 0 1 45.68504 211.3386 cm
+q
+BT 1 0 0 1 0 4 Tm 15 TL /F2 11 Tf .113725 .619608 .458824 rg /F4 11 Tf 15 TL (n) Tj /F2 11 Tf 15 TL ( ) Tj .752941 .223529 .168627 rg (Cannot add or update a child row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 194.3386 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Cause:) Tj /F3 9.5 Tf ( Child mein aisi value daali jo parent mein exist nahi karti.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 176.3386 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Solution:) Tj /F3 9.5 Tf ( Pehle parent mein data insert karo, phir child mein.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 166.6693 cm
+Q
+q
+1 0 0 1 45.68504 143.6693 cm
+q
+BT 1 0 0 1 0 4 Tm 15 TL /F2 11 Tf .113725 .619608 .458824 rg /F4 11 Tf 15 TL (n) Tj /F2 11 Tf 15 TL ( ) Tj .752941 .223529 .168627 rg (Cannot delete or update a parent row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 126.6693 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Cause:) Tj /F3 9.5 Tf ( Parent row delete karne ki koshish ki jab child rows exist karti hain.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 108.6693 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Solution:) Tj /F3 9.5 Tf ( Pehle child rows delete karo, ya ON DELETE CASCADE use karo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 99 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 7345
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 285.1898 9.92126 Tm (\227 9 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 769.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 15 TL /F2 11 Tf .113725 .619608 .458824 rg /F4 11 Tf 15 TL (n) Tj /F2 11 Tf 15 TL ( ) Tj .752941 .223529 .168627 rg (Referencing column and referenced column incompatible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 752.8661 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Cause:) Tj /F3 9.5 Tf ( FK aur PK ke data types alag hain \(e.g., INT vs VARCHAR\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 734.8661 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Solution:) Tj /F3 9.5 Tf ( Dono columns ka data type aur size bilkul same rakho.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 725.1969 cm
+Q
+q
+1 0 0 1 45.68504 702.1969 cm
+q
+BT 1 0 0 1 0 4 Tm 15 TL /F2 11 Tf .113725 .619608 .458824 rg /F4 11 Tf 15 TL (n) Tj /F2 11 Tf 15 TL ( ) Tj .752941 .223529 .168627 rg (FK constraint on non-existent column) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 685.1969 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Cause:) Tj /F3 9.5 Tf ( Galat column naam likha FK mein.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 667.1969 cm
+q
+BT 1 0 0 1 8 4.5 Tm 14 TL /F8 9.5 Tf .333333 .333333 .333333 rg (Solution:) Tj /F3 9.5 Tf ( Table ka DESCRIBE karke column naam check karo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 657.5276 cm
+Q
+q
+1 0 0 1 45.68504 646.189 cm
+Q
+q
+1 0 0 1 45.68504 644.689 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 638.0197 cm
+Q
+q
+1 0 0 1 45.68504 602.0197 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (8. Best Practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 593.185 cm
+Q
+q
+1 0 0 1 75.11811 410.185 cm
+q
+.113725 .619608 .458824 rg
+n 0 183 445.0394 -27 re f*
+1 1 1 rg
+n 0 156 445.0394 -26 re f*
+.882353 .960784 .933333 rg
+n 0 130 445.0394 -26 re f*
+1 1 1 rg
+n 0 104 445.0394 -26 re f*
+.882353 .960784 .933333 rg
+n 0 78 445.0394 -26 re f*
+1 1 1 rg
+n 0 52 445.0394 -26 re f*
+.882353 .960784 .933333 rg
+n 0 26 445.0394 -26 re f*
+1 1 1 rg
+BT /F2 9.5 Tf 12 TL ET
+q
+1 0 0 1 10 163 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 80.79244 0 Td (Best Practice) Tj T* -80.79244 0 Td ET
+Q
+Q
+q
+1 0 0 1 250.9449 163 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 78.49224 0 Td (Kyun?) Tj T* -78.49224 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 10 139.5 Tm (Constraint ko naam do \(fk_table_column\)) Tj T* ET
+BT 1 0 0 1 250.9449 139.5 Tm (Debug karna aur drop karna aasaan hota hai) Tj T* ET
+BT 1 0 0 1 10 113.5 Tm (FK columns mein INDEX lagao) Tj T* ET
+BT 1 0 0 1 250.9449 113.5 Tm (JOIN queries fast ho jaati hain) Tj T* ET
+BT 1 0 0 1 10 87.5 Tm (Parent table pehle banao) Tj T* ET
+BT 1 0 0 1 250.9449 87.5 Tm (Dependency order maintain hota hai) Tj T* ET
+BT 1 0 0 1 10 61.5 Tm (FK column aur referenced column same type rakho) Tj T* ET
+BT 1 0 0 1 250.9449 61.5 Tm (Type mismatch error se bachta hai) Tj T* ET
+BT 1 0 0 1 10 35.5 Tm (ON DELETE behavior soch samajh kar choose karo) Tj T* ET
+BT 1 0 0 1 250.9449 35.5 Tm (Accidental data loss se bachata hai) Tj T* ET
+BT 1 0 0 1 10 9.5 Tm (NULL allow karna sochkar decide karo) Tj T* ET
+BT 1 0 0 1 250.9449 9.5 Tm (NULL FK = optional relationship) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 183 m 445.0394 183 l S
+n 0 0 m 445.0394 0 l S
+n 0 0 m 0 183 l S
+n 445.0394 0 m 445.0394 183 l S
+n 0 156 m 445.0394 156 l S
+n 0 130 m 445.0394 130 l S
+n 0 104 m 445.0394 104 l S
+n 0 78 m 445.0394 78 l S
+n 0 52 m 445.0394 52 l S
+n 0 26 m 445.0394 26 l S
+n 240.9449 0 m 240.9449 183 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 401.6811 cm
+Q
+q
+1 0 0 1 45.68504 390.3425 cm
+Q
+q
+1 0 0 1 45.68504 388.8425 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 382.1732 cm
+Q
+q
+1 0 0 1 45.68504 346.1732 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (9. Quick Reference Card) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 337.3386 cm
+Q
+q
+1 0 0 1 68.0315 96.33858 cm
+q
+.486275 .360784 .74902 rg
+n 0 241 459.2126 -25 re f*
+1 1 1 rg
+n 0 216 459.2126 -24 re f*
+.960784 .941176 1 rg
+n 0 192 459.2126 -24 re f*
+1 1 1 rg
+n 0 168 459.2126 -24 re f*
+.960784 .941176 1 rg
+n 0 144 459.2126 -24 re f*
+1 1 1 rg
+n 0 120 459.2126 -24 re f*
+.960784 .941176 1 rg
+n 0 96 459.2126 -24 re f*
+1 1 1 rg
+n 0 72 459.2126 -24 re f*
+.960784 .941176 1 rg
+n 0 48 459.2126 -24 re f*
+1 1 1 rg
+n 0 24 459.2126 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 9 222 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 68.97902 0 Td (Task) Tj T* -68.97902 0 Td ET
+Q
+Q
+q
+1 0 0 1 184.748 222 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 117.8373 0 Td (Syntax) Tj T* -117.8373 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 201 Tm (Naya table mein FK) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 201 Tm (FOREIGN KEY \(col\) REFERENCES parent\(col\)) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 177 Tm (CONSTRAINT naam ke saath) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 177 Tm (CONSTRAINT fk_name FOREIGN KEY ...) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 153 Tm (Existing table mein FK add) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 153 Tm (ALTER TABLE t ADD CONSTRAINT ... FOREIGN KEY ...) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 129 Tm (FK remove karna \(MySQL\)) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 129 Tm (ALTER TABLE t DROP FOREIGN KEY fk_name) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 105 Tm (FK remove karna \(PostgreSQL\)) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 105 Tm (ALTER TABLE t DROP CONSTRAINT fk_name) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 81 Tm (Auto delete children) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 81 Tm (ON DELETE CASCADE) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 57 Tm (Delete rokna) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 57 Tm (ON DELETE RESTRICT) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 33 Tm (NULL set karna) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 33 Tm (ON DELETE SET NULL) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 9 9 Tm (FKs list dekhna \(MySQL\)) Tj T* ET
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 184.748 9 Tm (SELECT ... FROM INFORMATION_SCHEMA.KEY_COLUMN_USAGE) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 241 m 459.2126 241 l S
+n 0 0 m 459.2126 0 l S
+n 0 0 m 0 241 l S
+n 459.2126 0 m 459.2126 241 l S
+n 0 216 m 459.2126 216 l S
+n 0 192 m 459.2126 192 l S
+n 0 168 m 459.2126 168 l S
+n 0 144 m 459.2126 144 l S
+n 0 120 m 459.2126 120 l S
+n 0 96 m 459.2126 96 l S
+n 0 72 m 459.2126 72 l S
+n 0 48 m 459.2126 48 l S
+n 0 24 m 459.2126 24 l S
+n 175.748 0 m 175.748 241 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 85 cm
+Q
+q
+1 0 0 1 45.68504 73.66142 cm
+Q
+q
+1 0 0 1 45.68504 72.16142 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 65.49213 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+33 0 obj
+<<
+/Length 4000
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 282.9658 9.92126 Tm (\227 10 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 762.8661 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (10. Practice Exercises) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 754.0315 cm
+Q
+q
+1 0 0 1 39.68504 679.0315 cm
+q
+.960784 .941176 1 rg
+n 0 75 515.9055 -29 re f*
+.980392 .980392 .980392 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 53 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Exercise 1 \227 Basic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL 1.316101 Tw (Ek School database banao jisme students aur courses tables hon. Ek teen table enrollments banao jo) Tj T* 0 Tw (students aur courses dono se FK rakhti ho.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .752941 .937255 RG
+.5 w
+n 0 75 m 515.9055 75 l S
+n 0 0 m 515.9055 0 l S
+n 0 0 m 0 75 l S
+n 515.9055 0 m 515.9055 75 l S
+.486275 .360784 .74902 RG
+3 w
+n 0 0 m 0 75 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 670.5276 cm
+Q
+q
+1 0 0 1 39.68504 595.5276 cm
+q
+.960784 .941176 1 rg
+n 0 75 515.9055 -29 re f*
+.980392 .980392 .980392 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 53 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Exercise 2 \227 CASCADE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL 1.259501 Tw (Ek Blog database banao jisme users aur posts tables hon. Aise set karo ki user delete hone par uske) Tj T* 0 Tw (saare posts bhi delete ho jaayein \(CASCADE\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .752941 .937255 RG
+.5 w
+n 0 75 m 515.9055 75 l S
+n 0 0 m 515.9055 0 l S
+n 0 0 m 0 75 l S
+n 515.9055 0 m 515.9055 75 l S
+.486275 .360784 .74902 RG
+3 w
+n 0 0 m 0 75 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 587.0236 cm
+Q
+q
+1 0 0 1 39.68504 512.0236 cm
+q
+.960784 .941176 1 rg
+n 0 75 515.9055 -29 re f*
+.980392 .980392 .980392 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 53 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Exercise 3 \227 Self-Referencing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL .232407 Tw (Ek categories table banao jisme ek category ki parent_category bhi same table se ho. \(e.g., Electronics >) Tj T* 0 Tw (Mobile Phones > Smartphones\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .752941 .937255 RG
+.5 w
+n 0 75 m 515.9055 75 l S
+n 0 0 m 515.9055 0 l S
+n 0 0 m 0 75 l S
+n 515.9055 0 m 515.9055 75 l S
+.486275 .360784 .74902 RG
+3 w
+n 0 0 m 0 75 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 503.5197 cm
+Q
+q
+1 0 0 1 39.68504 428.5197 cm
+q
+.960784 .941176 1 rg
+n 0 75 515.9055 -29 re f*
+.980392 .980392 .980392 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 12 53 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Exercise 4 \227 ALTER TABLE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 12 7 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 21.5 Tm /F1 10.5 Tf 16 TL .922854 Tw (Pehle products table banao bina FK ke. Phir ALTER TABLE se ek supplier_id FK add karo jo suppliers) Tj T* 0 Tw (table ko reference kare.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.815686 .752941 .937255 RG
+.5 w
+n 0 75 m 515.9055 75 l S
+n 0 0 m 515.9055 0 l S
+n 0 0 m 0 75 l S
+n 515.9055 0 m 515.9055 75 l S
+.486275 .360784 .74902 RG
+3 w
+n 0 0 m 0 75 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 420.0157 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+34 0 obj
+<<
+/Contents 35 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 11577
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 282.9658 9.92126 Tm (\227 11 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 773.5276 cm
+Q
+q
+1 0 0 1 45.68504 772.0276 cm
+q
+.5 w
+1 J
+.866667 .866667 .866667 RG
+n 0 0 m 503.9055 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 765.3583 cm
+Q
+q
+1 0 0 1 45.68504 729.3583 cm
+q
+.486275 .360784 .74902 rg
+BT 1 0 0 1 0 5 Tm /F2 17 Tf 22 TL (11. Exercise Solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 720.5236 cm
+Q
+q
+1 0 0 1 39.68504 690.5236 cm
+q
+.882353 .960784 .933333 rg
+n 0 30 515.9055 -30 re f*
+.882353 .960784 .933333 rg
+n 0 30 515.9055 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 5.5 Tm 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (n) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( Pehle khud try karo, phir yahan check karo! Solutions dekhne se pehle apna code likhna zaroori hai.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .619608 .458824 RG
+3 w
+n 0 0 m 0 30 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 682.0197 cm
+Q
+q
+1 0 0 1 45.68504 655.0197 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Exercise 1 \227 School Database \(Basic FK\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 317.0197 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 329 l
+515.9055 331.764 513.6695 334 510.9055 334 c
+5 334 l
+2.236 334 0 331.764 0 329 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 329 l
+515.9055 331.764 513.6695 334 510.9055 334 c
+5 334 l
+2.236 334 0 331.764 0 329 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 314 Tm (-- Step 1: students table \(parent\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 314 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 301 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 301 Tm (students) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 301 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 288 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 288 Tm (student_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 288 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 288 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 288 Tm (          ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 288 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 288 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 275 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 275 Tm (name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 42.4 275 Tm (       ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 275 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 275 Tm (\(100\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 275 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 275 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 262 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 262 Tm (roll_no) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 262 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 262 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 262 Tm (\(20\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 249 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 236 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 223 Tm (-- Step 2: courses table \(parent\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 188.2 223 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 210 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 210 Tm (courses) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 210 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 197 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 197 Tm (course_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 69.4 197 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 197 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 197 Tm (          ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 197 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 197 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 184 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 184 Tm (course_name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 184 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 184 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 184 Tm (\(100\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 171 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 171 Tm (credits) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 171 Tm (     ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 171 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 158 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 145 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 132 Tm (-- Step 3: enrollments table \(child - dono se FK\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 274.6 132 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 119 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 119 Tm (enrollments) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 119 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 106 Tm (enroll_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 69.4 106 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 106 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 106 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 107.2 106 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 166.6 106 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 93 Tm (student_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 93 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 93 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 93 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 107.2 93 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 150.4 93 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 80 Tm (course_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 69.4 80 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 80.2 80 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 96.4 80 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 107.2 80 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 150.4 80 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 67 Tm (enroll_date) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 67 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 67 Tm (DATE) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 67 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 41 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 41 Tm (student_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 145 41 Tm (\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 41 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 215.2 41 Tm (students) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 258.4 41 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 263.8 41 Tm (student_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 317.8 41 Tm (\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 28 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 28 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 28 Tm (course_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 139.6 28 Tm (\)  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 28 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 215.2 28 Tm (courses) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 253 28 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 258.4 28 Tm (course_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 307 28 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 15 Tm (\);) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 314.185 cm
+Q
+q
+1 0 0 1 45.68504 291.185 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Sample Output \227 enrollments table:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.54331 199.185 cm
+q
+.113725 .619608 .458824 rg
+n 0 89 408.189 -23 re f*
+1 1 1 rg
+n 0 66 408.189 -22 re f*
+.882353 .960784 .933333 rg
+n 0 44 408.189 -22 re f*
+1 1 1 rg
+n 0 22 408.189 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+q
+1 0 0 1 6 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 8.593071 0 Td (enroll_id) Tj T* -8.593071 0 Td ET
+Q
+Q
+q
+1 0 0 1 76.86614 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 28.24756 0 Td (student_id) Tj T* -28.24756 0 Td ET
+Q
+Q
+q
+1 0 0 1 195.9213 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 29.90756 0 Td (course_id) Tj T* -29.90756 0 Td ET
+Q
+Q
+q
+1 0 0 1 314.9764 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 16.9313 0 Td (enroll_date) Tj T* -16.9313 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 8.5 Tf 12 TL ET
+BT 1 0 0 1 32.88307 52.5 Tm (1) Tj T* ET
+BT 1 0 0 1 90.49895 52.5 Tm (101  ) Tj /F6 8.5 Tf 12 TL (\256) Tj /F5 8.5 Tf 12 TL ( students) Tj T* ET
+BT 1 0 0 1 212.1041 52.5 Tm (201  ) Tj /F6 8.5 Tf 12 TL (\256) Tj /F5 8.5 Tf 12 TL ( courses) Tj T* ET
+BT 1 0 0 1 333.0827 52.5 Tm (2024-01-15) Tj T* ET
+BT 1 0 0 1 32.88307 30.5 Tm (2) Tj T* ET
+BT 1 0 0 1 90.49895 30.5 Tm (102  ) Tj /F6 8.5 Tf 12 TL (\256) Tj /F5 8.5 Tf 12 TL ( students) Tj T* ET
+BT 1 0 0 1 212.1041 30.5 Tm (202  ) Tj /F6 8.5 Tf 12 TL (\256) Tj /F5 8.5 Tf 12 TL ( courses) Tj T* ET
+BT 1 0 0 1 333.0827 30.5 Tm (2024-01-16) Tj T* ET
+BT 1 0 0 1 32.88307 8.5 Tm (3) Tj T* ET
+BT 1 0 0 1 90.49895 8.5 Tm (101  ) Tj /F6 8.5 Tf 12 TL (\256) Tj /F5 8.5 Tf 12 TL ( students) Tj T* ET
+BT 1 0 0 1 212.1041 8.5 Tm (203  ) Tj /F6 8.5 Tf 12 TL (\256) Tj /F5 8.5 Tf 12 TL ( courses) Tj T* ET
+BT 1 0 0 1 333.0827 8.5 Tm (2024-01-17) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 89 m 408.189 89 l S
+n 0 0 m 408.189 0 l S
+n 0 0 m 0 89 l S
+n 408.189 0 m 408.189 89 l S
+n 0 66 m 408.189 66 l S
+n 0 44 m 408.189 44 l S
+n 0 22 m 408.189 22 l S
+n 70.86614 0 m 70.86614 89 l S
+n 189.9213 0 m 189.9213 89 l S
+n 308.9764 0 m 308.9764 89 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 187.185 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 93.74626 0 Td (ek student kai courses mein enroll ho sakta hai \227 Many-to-Many relationship ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -93.74626 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 172.6811 cm
+Q
+q
+1 0 0 1 45.68504 145.6811 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Exercise 2 \227 Blog Database \(ON DELETE CASCADE\)) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 16141
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 282.9658 9.92126 Tm (\227 12 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 515.8661 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 264 l
+515.9055 266.764 513.6695 269 510.9055 269 c
+5 269 l
+2.236 269 0 266.764 0 264 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 264 l
+515.9055 266.764 513.6695 269 510.9055 269 c
+5 269 l
+2.236 269 0 266.764 0 264 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 249 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 249 Tm (users) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 249 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 236 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 236 Tm (user_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 236 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 236 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 236 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 236 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 236 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 223 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 223 Tm (username) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 223 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 223 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 223 Tm (\(50\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 223 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 223 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 210 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 210 Tm (email) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 47.8 210 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 210 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 210 Tm (\(100\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 197 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 184 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 171 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 171 Tm (posts) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 171 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 158 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 158 Tm (post_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 158 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 158 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 158 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 158 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 158 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 145 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 145 Tm (user_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 145 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 145 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 145 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 145 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 145 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 132 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 132 Tm (title) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 47.8 132 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 132 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 132 Tm (\(200\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 119 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 119 Tm (content) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 119 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 69.4 119 Tm (TEXT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 91 119 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 93 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 93 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 93 Tm (user_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 93 Tm (\)) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 93 Tm ( REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 199 93 Tm (users) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 226 93 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 231.4 93 Tm (user_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 269.2 93 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 80 Tm (ON DELETE CASCADE      ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 145 80 Tm (-- user delete ) Tj /F6 9 Tf 10.8 TL (\256) Tj /F5 9 Tf 10.8 TL ( posts bhi delete!) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 41 Tm (-- Test: user delete karo) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 145 41 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (DELETE FROM ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 28 Tm (users) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 28 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 107.2 28 Tm (WHERE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 139.6 28 Tm (user_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 28 Tm ( = ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 193.6 28 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 199 28 Tm (;) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 15 Tm (-- Result: user_id=1 ke saare posts bhi automatically delete ho gaye!) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 382.6 15 Tm  T* ET
+Q
+q
+1 0 0 1 45.68504 513.0315 cm
+Q
+q
+1 0 0 1 45.68504 490.0315 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (CASCADE ka behavior \227 Before aur After Delete:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.3622 315.0315 cm
+q
+.486275 .360784 .74902 rg
+n 0 172 470.5512 -25 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 8 153 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 55.6278 0 Td (Pehle \(Before DELETE\)) Tj T* -55.6278 0 Td ET
+Q
+Q
+q
+1 0 0 1 243.2756 153 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 22.9778 0 Td (Baad mein \(After DELETE user_id=1\)) Tj T* -22.9778 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 60 cm
+q
+0 .015686 .266667 rg
+n 0 81 209.7638 -21 re f*
+1 1 1 rg
+n 0 60 209.7638 -20 re f*
+1 .941176 .941176 rg
+n 0 40 209.7638 -20 re f*
+1 .941176 .941176 rg
+n 0 20 209.7638 -20 re f*
+1 1 1 rg
+BT /F5 8 Tf 12 TL ET
+q
+1 0 0 1 6 64 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (post_id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 64 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (user_id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 64 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (title) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT 1 0 0 1 23.11181 48 Tm (1) Tj T* ET
+BT 1 0 0 1 74.13543 48 Tm (1) Tj T* ET
+BT 1 0 0 1 124.7055 48 Tm (My First Post) Tj T* ET
+BT 1 0 0 1 23.11181 28 Tm (2) Tj T* ET
+BT 1 0 0 1 74.13543 28 Tm (1) Tj T* ET
+BT 1 0 0 1 127.1055 28 Tm (SQL Tutorial) Tj T* ET
+BT 1 0 0 1 23.11181 8 Tm (3) Tj T* ET
+BT 1 0 0 1 74.13543 8 Tm (2) Tj T* ET
+BT 1 0 0 1 127.1055 8 Tm (Python Guide) Tj T* ET
+q
+1 J
+1 j
+0 .047059 .8 RG
+.5 w
+n 0 81 m 209.7638 81 l S
+n 0 0 m 209.7638 0 l S
+n 0 0 m 0 81 l S
+n 209.7638 0 m 209.7638 81 l S
+n 0 60 m 209.7638 60 l S
+n 0 40 m 209.7638 40 l S
+n 0 20 m 209.7638 20 l S
+n 51.02362 0 m 51.02362 81 l S
+n 102.0472 0 m 102.0472 81 l S
+Q
+Q
+Q
+q
+1 0 0 1 243.2756 6 cm
+q
+0 .015686 .266667 rg
+n 0 135 209.7638 -21 re f*
+.882353 .960784 .933333 rg
+n 0 114 209.7638 -20 re f*
+.992157 .92549 .917647 rg
+n 0 94 209.7638 -47 re f*
+.992157 .92549 .917647 rg
+n 0 47 209.7638 -47 re f*
+1 1 1 rg
+BT /F5 8 Tf 12 TL ET
+q
+1 0 0 1 6 118 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (post_id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 118 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (user_id) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 118 cm
+q
+.172549 .243137 .313725 rg
+BT 1 0 0 1 0 4 Tm /F5 9 Tf 13 TL (title) Tj T* ET
+Q
+Q
+0 0 0 rg
+BT 1 0 0 1 23.11181 102 Tm (3) Tj T* ET
+BT 1 0 0 1 74.13543 102 Tm (2) Tj T* ET
+BT 1 0 0 1 127.1055 102 Tm (Python Guide) Tj T* ET
+q
+1 0 0 1 6 51 cm
+q
+0 .035294 .6 rg
+BT 1 0 0 1 0 30 Tm /F5 9 Tf 13 TL -4.176378 Tw (\(post 1) Tj T* 0 Tw (deleted) Tj T* (\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 76.53543 55 Tm  T* ET
+BT 1 0 0 1 155.9055 55 Tm  T* ET
+q
+1 0 0 1 6 4 cm
+q
+0 .035294 .6 rg
+BT 1 0 0 1 0 30 Tm /F5 9 Tf 13 TL -4.176378 Tw (\(post 2) Tj T* 0 Tw (deleted) Tj T* (\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 76.53543 8 Tm  T* ET
+BT 1 0 0 1 155.9055 8 Tm  T* ET
+q
+1 J
+1 j
+0 .047059 .8 RG
+.5 w
+n 0 135 m 209.7638 135 l S
+n 0 0 m 209.7638 0 l S
+n 0 0 m 0 135 l S
+n 209.7638 0 m 209.7638 135 l S
+n 0 114 m 209.7638 114 l S
+n 0 94 m 209.7638 94 l S
+n 0 47 m 209.7638 47 l S
+n 51.02362 0 m 51.02362 135 l S
+n 102.0472 0 m 102.0472 135 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 172 m 470.5512 172 l S
+n 0 0 m 470.5512 0 l S
+n 0 0 m 0 172 l S
+n 470.5512 0 m 470.5512 172 l S
+n 0 147 m 470.5512 147 l S
+n 235.2756 0 m 235.2756 172 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 303.0315 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 95.34376 0 Td (user_id=1 delete hone par uske dono posts bhi automatically delete ho gaye ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -95.34376 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 288.5276 cm
+Q
+q
+1 0 0 1 45.68504 261.5276 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Exercise 3 \227 Self-Referencing \(Categories\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 66.52756 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 186 l
+515.9055 188.764 513.6695 191 510.9055 191 c
+5 191 l
+2.236 191 0 188.764 0 186 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 186 l
+515.9055 188.764 513.6695 191 510.9055 191 c
+5 191 l
+2.236 191 0 188.764 0 186 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 171 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 171 Tm (categories) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 171 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 158 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 158 Tm (cat_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 53.2 158 Tm (      ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 158 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 101.8 158 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 150.4 158 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 158 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 145 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 145 Tm (cat_name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 64 145 Tm (    ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 85.6 145 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 145 Tm (\(100\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 145 Tm (NOT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 199 145 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 132 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 132 Tm (parent_cat_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 91 132 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 96.4 132 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 132 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 161.2 132 Tm (DEFAULT NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 226 132 Tm (,  ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 242.2 132 Tm (-- top-level ka NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 119 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 106 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 106 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 106 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 106 Tm (parent_cat_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 106 Tm (\) ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 172 106 Tm (REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 231.4 106 Tm (categories) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 285.4 106 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 290.8 106 Tm (cat_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 323.2 106 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 93 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 93 Tm (ON DELETE SET NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 80 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 54 Tm (-- Data insert karna \(hierarchy banao\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 215.2 54 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 41 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 41 Tm (categories) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 41 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 41 Tm (VALUES) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 166.6 41 Tm ( \() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 177.4 41 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 182.8 41 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 193.6 41 Tm ('Electronics') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 263.8 41 Tm (,    ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 290.8 41 Tm (NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 312.4 41 Tm (\);) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 28 Tm (categories) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 28 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 28 Tm (VALUES) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 166.6 28 Tm ( \() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 177.4 28 Tm (2) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 182.8 28 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 193.6 28 Tm ('Mobile Phones') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 274.6 28 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 285.4 28 Tm (1) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 290.8 28 Tm (\);    ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 323.2 28 Tm (-- Electronics ke under) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (INSERT INTO ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 15 Tm (categories) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 15 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 15 Tm (VALUES) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 166.6 15 Tm ( \() Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 177.4 15 Tm (3) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 182.8 15 Tm (, ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 193.6 15 Tm ('Smartphones') Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 263.8 15 Tm (,   ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 285.4 15 Tm (2) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 290.8 15 Tm (\);    ) Tj T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 323.2 15 Tm (-- Mobile Phones ke under) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 63.69291 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+38 0 obj
+<<
+/Contents 39 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+/F8 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+39 0 obj
+<<
+/Length 10986
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.486275 .360784 .74902 rg
+n 0 805.0394 595.2756 36.85039 re f*
+BT /F2 9 Tf 10.8 TL ET
+1 1 1 rg
+BT 1 0 0 1 39.68504 817.7953 Tm (SQL Foreign Key) Tj T* ET
+BT 1 0 0 1 452.0636 817.7953 Tm (Database Fundamentals) Tj T* ET
+.941176 .941176 .941176 rg
+n 0 0 595.2756 28.34646 re f*
+BT /F1 8 Tf 9.6 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 282.9658 9.92126 Tm (\227 13 \227) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 769.8661 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Output \227 categories table \(hierarchy\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89.29134 677.8661 cm
+q
+.901961 .658824 .090196 rg
+n 0 89 416.6929 -23 re f*
+1 1 1 rg
+n 0 66 416.6929 -22 re f*
+1 .972549 .882353 rg
+n 0 44 416.6929 -22 re f*
+1 .952941 .8 rg
+n 0 22 416.6929 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+q
+1 0 0 1 6 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 10.7311 0 Td (cat_id) Tj T* -10.7311 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.3622 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 41.80114 0 Td (cat_name) Tj T* -41.80114 0 Td ET
+Q
+Q
+q
+1 0 0 1 210.0945 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 11.0963 0 Td (parent_cat_id) Tj T* -11.0963 0 Td ET
+Q
+Q
+q
+1 0 0 1 309.3071 71 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL 37.90791 0 Td (Level) Tj T* -37.90791 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F5 9 Tf 12 TL ET
+BT 1 0 0 1 28.4811 52 Tm (1) Tj T* ET
+BT 1 0 0 1 103.5283 52 Tm (Electronics) Tj T* ET
+BT 1 0 0 1 242.9008 52 Tm (NULL) Tj T* ET
+BT 1 0 0 1 322.2 52 Tm (Level 1 \(Root\)) Tj T* ET
+BT 1 0 0 1 28.4811 30 Tm (2) Tj T* ET
+BT 1 0 0 1 98.12835 30 Tm (Mobile Phones) Tj T* ET
+BT 1 0 0 1 251.0008 30 Tm (1) Tj T* ET
+BT 1 0 0 1 341.1 30 Tm (Level 2) Tj T* ET
+BT 1 0 0 1 28.4811 8 Tm (3) Tj T* ET
+BT 1 0 0 1 103.5283 8 Tm (Smartphones) Tj T* ET
+BT 1 0 0 1 251.0008 8 Tm (2) Tj T* ET
+BT 1 0 0 1 341.1 8 Tm (Level 3) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 89 m 416.6929 89 l S
+n 0 0 m 416.6929 0 l S
+n 0 0 m 0 89 l S
+n 416.6929 0 m 416.6929 89 l S
+n 0 66 m 416.6929 66 l S
+n 0 44 m 416.6929 44 l S
+n 0 22 m 416.6929 22 l S
+n 62.3622 0 m 62.3622 89 l S
+n 204.0945 0 m 204.0945 89 l S
+n 303.3071 0 m 303.3071 89 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 665.8661 cm
+q
+.533333 .533333 .533333 rg
+BT 1 0 0 1 0 3 Tm /F3 9 Tf 12 TL 117.6323 0 Td (Electronics ) Tj /F6 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Mobile Phones ) Tj /F6 9 Tf 12 TL (\256) Tj /F3 9 Tf 12 TL ( Smartphones \(3-level hierarchy\) ) Tj /F4 9 Tf 12 TL (3) Tj /F3 9 Tf 12 TL T* -117.6323 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 651.3622 cm
+Q
+q
+1 0 0 1 45.68504 624.3622 cm
+q
+.117647 .117647 .180392 rg
+BT 1 0 0 1 0 4 Tm /F2 13 Tf 17 TL (Exercise 4 \227 ALTER TABLE se FK Add Karna) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 299.3622 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 316 l
+515.9055 318.764 513.6695 321 510.9055 321 c
+5 321 l
+2.236 321 0 318.764 0 316 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 316 l
+515.9055 318.764 513.6695 321 510.9055 321 c
+5 321 l
+2.236 321 0 318.764 0 316 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 301 Tm (-- Step 1: suppliers table banao \(parent\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 231.4 301 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 288 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 288 Tm (suppliers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 288 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 275 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 275 Tm (supplier_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 275 Tm (   ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 96.4 275 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 112.6 275 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 161.2 275 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 220.6 275 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 262 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 262 Tm (supplier_name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 91 262 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 96.4 262 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 262 Tm (\(100\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 249 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 249 Tm (contact) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 58.6 249 Tm (       ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 96.4 249 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 134.2 249 Tm (\(15\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 236 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 223 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 210 Tm (-- Step 2: products table banao BINA FK ke) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 236.8 210 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 197 Tm (CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 197 Tm (products) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 123.4 197 Tm ( \() Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 184 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 184 Tm (product_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 74.8 184 Tm (   ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 91 184 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 107.2 184 Tm (         ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 184 Tm (PRIMARY KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 215.2 184 Tm (,) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 171 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 171 Tm (product_name) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 171 Tm ( ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 91 171 Tm (VARCHAR) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 171 Tm (\(100\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 158 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 158 Tm (price) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 47.8 158 Tm (        ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 91 158 Tm (DECIMAL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 158 Tm (\(10,2\),) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 145 Tm (  ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 20.8 145 Tm (supplier_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 80.2 145 Tm (  ) Tj T* ET
+.776471 .470588 .866667 rg
+BT 1 0 0 1 91 145 Tm (INT) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 132 Tm (\);) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 119 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 106 Tm (-- Step 3: ALTER TABLE se FK add karo) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 209.8 106 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 93 Tm (ALTER TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 74.8 93 Tm (products) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 80 Tm (ADD CONSTRAINT ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 91 80 Tm (fk_supplier) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 67 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 67 Tm (FOREIGN KEY ) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 85.6 67 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 91 67 Tm (supplier_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 150.4 67 Tm (\)) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 155.8 67 Tm ( REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 220.6 67 Tm (suppliers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 269.2 67 Tm (\() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 274.6 67 Tm (supplier_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 334 67 Tm (\)) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 54 Tm (  ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 20.8 54 Tm (ON DELETE SET NULL) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 118 54 Tm (;) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm  T* ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 28 Tm (-- Verify karo ki FK add hua) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 161.2 28 Tm  T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (SHOW CREATE TABLE ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 107.2 15 Tm (products) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 150.4 15 Tm (;) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 296.5276 cm
+Q
+q
+1 0 0 1 45.68504 273.5276 cm
+q
+.113725 .619608 .458824 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (Output \227 SHOW CREATE TABLE products:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 196.5276 cm
+.156863 .172549 .203922 rg
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 69 l
+515.9055 71.764 513.6695 74 510.9055 74 c
+5 74 l
+2.236 74 0 71.764 0 69 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+f*
+.243137 .266667 .317647 RG
+.5 w
+n
+5 0 m
+510.9055 0 l
+513.6695 0 515.9055 2.236 515.9055 5 c
+515.9055 69 l
+515.9055 71.764 513.6695 74 510.9055 74 c
+5 74 l
+2.236 74 0 71.764 0 69 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+S
+BT /F5 9 Tf 10.8 TL ET
+.360784 .388235 .439216 rg
+BT 1 0 0 1 10 54 Tm (-- Output mein ye line dikhegi:) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 177.4 54 Tm  T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 10 41 Tm (CONSTRAINT ) Tj T* ET
+.596078 .764706 .47451 rg
+BT 1 0 0 1 69.4 41 Tm (fk_supplier) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 41 Tm ( ) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 134.2 41 Tm (FOREIGN KEY) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 193.6 41 Tm ( \() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 204.4 41 Tm (supplier_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 263.8 41 Tm (\)) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 28 Tm (  REFERENCES ) Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 80.2 28 Tm (suppliers) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 128.8 28 Tm ( \() Tj T* ET
+.898039 .752941 .482353 rg
+BT 1 0 0 1 139.6 28 Tm (supplier_id) Tj T* ET
+.670588 .698039 .74902 rg
+BT 1 0 0 1 199 28 Tm (\)) Tj T* ET
+.380392 .686275 .937255 rg
+BT 1 0 0 1 10 15 Tm (  ON DELETE SET NULL) Tj T* ET
+Q
+q
+1 0 0 1 39.68504 150.5276 cm
+q
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+.882353 .960784 .933333 rg
+n 0 46 515.9055 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+BT 1 0 0 1 0 21.5 Tm 1.272412 Tw 16 TL /F2 10.5 Tf .101961 .101961 .101961 rg /F4 10.5 Tf 16 TL (n) Tj /F2 10.5 Tf 16 TL /F1 10.5 Tf ( FK successfully add ho gaya! Ab products mein sirf wahi supplier_id daal sakte ho jo suppliers table) Tj T* 0 Tw (mein exist karta ho. ) Tj /F4 10.5 Tf 16 TL (3) Tj /F1 10.5 Tf 16 TL T* ET
+Q
+Q
+q
+1 J
+1 j
+.113725 .619608 .458824 RG
+3 w
+n 0 0 m 0 46 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 142.0236 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.486275 0.360784 0.74902 rg
+/gRLs0 gs
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 38 Tf
+45.6 TL
+ET
+BT
+1 0 0 1 -80.237 20 Tm
+(Notes by) Tj
+T*
+ET
+BT
+1 0 0 1 -156.275 -30 Tm
+(Aparna Varshney) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+xref
+0 40
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000198 00000 n 
+0000000247 00000 n 
+0000000606 00000 n 
+0000006841 00000 n 
+0000006948 00000 n 
+0000007055 00000 n 
+0000007167 00000 n 
+0000007279 00000 n 
+0000007395 00000 n 
+0000007479 00000 n 
+0000007585 00000 n 
+0000007663 00000 n 
+0000007774 00000 n 
+0000007894 00000 n 
+0000008255 00000 n 
+0000015014 00000 n 
+0000015375 00000 n 
+0000026625 00000 n 
+0000026986 00000 n 
+0000033327 00000 n 
+0000033688 00000 n 
+0000043626 00000 n 
+0000043987 00000 n 
+0000056122 00000 n 
+0000056483 00000 n 
+0000061220 00000 n 
+0000061581 00000 n 
+0000073460 00000 n 
+0000073821 00000 n 
+0000081219 00000 n 
+0000081580 00000 n 
+0000085633 00000 n 
+0000085994 00000 n 
+0000097625 00000 n 
+0000097986 00000 n 
+0000114181 00000 n 
+0000114542 00000 n 
+trailer
+<<
+/Size 40
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+125582
+%%EOF
